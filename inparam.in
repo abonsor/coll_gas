@@ -1,0 +1,24 @@
+Restart 1	1=beginning_else_inputfiles
+Calcchi 1	1=calculatechi
+Solids_only	0	1=solidsonly
+track_origin	0	1=track_origin
+deltat 	1e10	s
+rin	75	au
+rout	150	au
+imax	0.15	rad
+ecc	0.1
+vrel	1e3	m/s
+delta	0.1	logarithmic_bin_spacing_mass_bins
+alpha_p	3.5	
+mtot0	192	mearth
+rho_s	3e3	kg/m3
+rho_v	1e3	kg/m3
+dmax	100e3	m
+dbl	1000e-6	m
+ntime	1e8
+outputinterval	1000
+Fv(0)	0.04
+resurf	1
+chi	0.1
+print	0
+nocat	0
